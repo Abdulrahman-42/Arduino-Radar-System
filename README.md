@@ -13,17 +13,13 @@ The Processing sketch visualizes this data in real-time, showing:
 
 Here is the final assembled project, including the 3D-printed base and sensor housing.
 
-!(gallery/your_photo_name_1.jpg)
-!(gallery/your_photo_name_2.jpg)
-!(gallery/your_photo_name_3.jpg)
+!(Gallery/Prototype.jpg)
 
-*(To use this: Upload your photos to a folder named 'gallery' and change the file names above to match yours.)*
 
----
 
 ## 3D Models
 
-The custom-designed radar base and sensor housing were created in FreeCAD (or your software of choice). The design files are available in the `cad_models` folder.
+The custom-designed radar base and sensor housing were created in FreeCAD. The design files are available in the `cad_models` folder.
 
 * `radar_base.stl` - The main base that holds the servo.
 * `sensor_housing.stl` - The housing that attaches the ToF sensor to the servo arm.
@@ -34,7 +30,7 @@ You will need a 3D printer or slicing software to view and print these models.
 
 ## Hardware
 
-* **Microcontroller:** Arduino Uno (or any compatible board)
+* **Microcontroller:** Arduino Nano (or any compatible board)
 * **Sensor:** VL53L1X Time-of-Flight Laser Range Sensor
 * **Actuator:** 270-degree Servo Motor
 * **Pin Connections:**
