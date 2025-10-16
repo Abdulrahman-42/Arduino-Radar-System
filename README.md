@@ -14,7 +14,7 @@ The Processing sketch visualizes this data in real-time, showing:
 Here is the final assembled project, including the 3D-printed base and sensor housing.
 
 
-!([https://github.com/Abdulrahman-42/Arduino-Radar-System/raw/main/Gallery/Prototype.jpg](https://github.com/Abdulrahman-42/Arduino-Radar-System/raw/cd9d16b9ebdf6d98605c7a920b0f5083c0c09cae/Gallery/Prototype.jpg))
+!(https://github.com/Abdulrahman-42/Arduino-Radar-System/raw/main/Gallery/Prototype.jpg)
 
 
 
